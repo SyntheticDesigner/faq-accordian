@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/faq-accordian/static/css/main.e4e7ea19.css",
+    "main.css": "/faq-accordian/static/css/main.f54b7dd2.css",
     "main.js": "/faq-accordian/static/js/main.97f46c23.js",
     "static/js/787.cc986c7a.chunk.js": "/faq-accordian/static/js/787.cc986c7a.chunk.js",
     "static/media/illustration-woman-online-desktop.svg": "/faq-accordian/static/media/illustration-woman-online-desktop.843eb114c7213a596ee2.svg",
@@ -8,12 +8,12 @@
     "static/media/bg-pattern-desktop.svg": "/faq-accordian/static/media/bg-pattern-desktop.f51e07a2f52390c60484.svg",
     "index.html": "/faq-accordian/index.html",
     "static/media/icon-arrow-down.svg": "/faq-accordian/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
-    "main.e4e7ea19.css.map": "/faq-accordian/static/css/main.e4e7ea19.css.map",
+    "main.f54b7dd2.css.map": "/faq-accordian/static/css/main.f54b7dd2.css.map",
     "main.97f46c23.js.map": "/faq-accordian/static/js/main.97f46c23.js.map",
     "787.cc986c7a.chunk.js.map": "/faq-accordian/static/js/787.cc986c7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4e7ea19.css",
+    "static/css/main.f54b7dd2.css",
     "static/js/main.97f46c23.js"
   ]
 }
